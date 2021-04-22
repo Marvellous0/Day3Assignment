@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\Day3StringManipulation.exe
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\Day3StringManipulation.deps.json
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\Day3StringManipulation.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\Day3StringManipulation.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\Day3StringManipulation.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\ref\Day3StringManipulation.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\bin\Debug\net5.0\Day3StringManipulation.pdb
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\ref\Day3StringManipulation.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.pdb
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3StringManipulation\obj\Debug\net5.0\Day3StringManipulation.genruntimeconfig.cache

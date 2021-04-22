@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\Day3Method.exe
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\Day3Method.deps.json
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\Day3Method.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\Day3Method.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\Day3Method.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\ref\Day3Method.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\bin\Debug\net5.0\Day3Method.pdb
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\ref\Day3Method.dll
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.pdb
+C:\Users\Favour .O\Desktop\Day3 Assignment\Day3Method\obj\Debug\net5.0\Day3Method.genruntimeconfig.cache

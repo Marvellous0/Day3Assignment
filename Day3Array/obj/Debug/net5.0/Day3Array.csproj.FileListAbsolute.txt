@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\Day3Array.exe
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\Day3Array.deps.json
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\Day3Array.runtimeconfig.json
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\Day3Array.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\Day3Array.dll
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\ref\Day3Array.dll
+C:\Users\Favour .O\Desktop\csharp\Day3Array\bin\Debug\net5.0\Day3Array.pdb
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.dll
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\ref\Day3Array.dll
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.pdb
+C:\Users\Favour .O\Desktop\csharp\Day3Array\obj\Debug\net5.0\Day3Array.genruntimeconfig.cache
